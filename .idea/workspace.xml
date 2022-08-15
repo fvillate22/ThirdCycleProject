@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a2f050c-0186-4a41-b135-4a96495c7777" name="Changes" comment="Sprint 2.&#10;Objetivo: Crear clases para las entidades básicas de la aplicación.">
+    <list default="true" id="0a2f050c-0186-4a41-b135-4a96495c7777" name="Changes" comment="Sprint 2.&#10;Objetivo: Crear clase Empleado para las entidades básicas de la aplicación.">
+      <change afterPath="$PROJECT_DIR$/out/production/TiendaVirtualNFT/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tokens/Empleado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tokens/Empresa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tokens/Empresa.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +18,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Record" />
         <option value="Class" />
       </list>
     </option>
@@ -90,6 +93,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Sprint 2.&#10;Objetivo: Crear clases para las entidades básicas de la aplicación." />
-    <option name="LAST_COMMIT_MESSAGE" value="Sprint 2.&#10;Objetivo: Crear clases para las entidades básicas de la aplicación." />
+    <MESSAGE value="Sprint 2.&#10;Objetivo: Crear clase Empleado para las entidades básicas de la aplicación." />
+    <option name="LAST_COMMIT_MESSAGE" value="Sprint 2.&#10;Objetivo: Crear clase Empleado para las entidades básicas de la aplicación." />
   </component>
 </project>
