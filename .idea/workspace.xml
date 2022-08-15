@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a2f050c-0186-4a41-b135-4a96495c7777" name="Changes" comment="Sprint 2.&#10;Objetivo: Crear clase Empleado para las entidades básicas de la aplicación." />
+    <list default="true" id="0a2f050c-0186-4a41-b135-4a96495c7777" name="Changes" comment="Sprint 2.&#10;Objetivo: Crear clase Empleado para las entidades básicas de la aplicación.">
+      <change beforePath="$PROJECT_DIR$/src/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/src/.gitignore" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
