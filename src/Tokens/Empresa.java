@@ -18,26 +18,32 @@ public class Empresa {
     //System.out.println("Hola compañero, debemos Modelar una empresa como clase java");
 
     public String getNombreEmpresa() {
+
         return nombreEmpresa;
     }
 
     public void setNombreEmpresa(String nombreEmpresa) {
+
         this.nombreEmpresa = nombreEmpresa;
     }
 
     public int getNitEmpresa() {
+
         return nitEmpresa;
     }
 
     public void setNitEmpresa(int nitEmpresa) {
+
         this.nitEmpresa = nitEmpresa;
     }
 
     public String getDireccioEmpresa() {
+
         return direccioEmpresa;
     }
 
     public void setDireccioEmpresa(String direccioEmpresa) {
+
         this.direccioEmpresa = direccioEmpresa;
     }
 
