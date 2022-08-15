@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a2f050c-0186-4a41-b135-4a96495c7777" name="Changes" comment="Sprint 2.&#10;Objetivo: Crear clase Empleado para las entidades básicas de la aplicación.">
-      <change afterPath="$PROJECT_DIR$/out/production/TiendaVirtualNFT/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tokens/Empleado.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,6 +21,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -58,6 +60,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Empresa" />
+        <item itemvalue="Application.Empresa" />
       </list>
     </recent_temporary>
   </component>
@@ -85,7 +88,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>

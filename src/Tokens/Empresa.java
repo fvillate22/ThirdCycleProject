@@ -14,6 +14,7 @@ public class Empresa {
         this.telefonoEmpresa = telefonoEmpresa;
         this.nitEmpresa = nitEmpresa;
     }
+
     //System.out.println("Hola compañero, debemos Modelar una empresa como clase java");
 
     public String getNombreEmpresa() {
